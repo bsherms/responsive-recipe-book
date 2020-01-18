@@ -1,5 +1,13 @@
 .card {
-  border: 6px solid pink;
+  border: 10px solid #e4ced9;
   border-radius: 16px;
   overflow: hidden;
+  max-width: 47%;
+  margin-left: 1em;
+  max-height: 430px;
+}
+
+.card p {
+  font-family: avenir, sans-serif;
+  font-weight: 500;
 }
