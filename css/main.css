@@ -1,0 +1,5 @@
+.card {
+  border: 6px solid pink;
+  border-radius: 16px;
+  overflow: hidden;
+}
