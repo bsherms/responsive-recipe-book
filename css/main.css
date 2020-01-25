@@ -2,8 +2,6 @@
   border: 10px solid #e4ced9;
   border-radius: 16px;
   overflow: hidden;
-  max-width: 47%;
-  margin-left: 1em;
   max-height: 430px;
 }
 
@@ -19,6 +17,17 @@ h2 {
 }
 
 h3 {
+  font-family: avenir, sans-serif;
+  font-weight: 500;
+}
+
+nav {
+  background-color: #a13757;
+}
+
+nav ul a {
+  color: #fff;
+  text-decoration: none;
   font-family: avenir, sans-serif;
   font-weight: 500;
 }
